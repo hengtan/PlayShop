@@ -6,7 +6,7 @@ using PS.Produc.API.Services.Interfaces;
 
 namespace PS.Produc.API.Services
 {
-    public class CategoryServices(ICategoryRepository categoryRepository, IMapper mapper) : ICategoryService
+    public class CategoryService(ICategoryRepository categoryRepository, IMapper mapper) : ICategoryService
     {
         private readonly ICategoryRepository _categoryRepository = categoryRepository;
         private readonly IMapper _mapper = mapper;

@@ -1,5 +1,6 @@
 ﻿using PS.Produc.API.Models;
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace PS.Produc.API.DTOs
 {
@@ -26,6 +27,7 @@ namespace PS.Produc.API.DTOs
 
         public string? ImageURL { get; set; }
 
+        [JsonIgnore]
         public Category? Category { get; set; }
 
         public int CategoryId { get; set; }
