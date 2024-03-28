@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
-using PS.Produc.API.Controllers;
+using PS.Produc.API.Context;
 using PS.Produc.API.DTOs.Mappings;
 
 var builder = WebApplication.CreateBuilder(args);

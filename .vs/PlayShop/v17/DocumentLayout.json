@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\git\\PlayShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\dtos\\mappings\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\dtos\\mappings\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +25,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|c:\\git\\playshop\\src\\ps.produc.api\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA2065F-9F20-41A7-9283-EDAB7902DA0A}|src\\PS.Produc.API\\PS.Produc.API.csproj|solutionrelative:src\\ps.produc.api\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "src\\PS.Produc.API\\Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T02:18:44.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "src\\PS.Produc.API\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAACsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T02:18:42.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "src\\PS.Produc.API\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABEAAAA",
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\DTOs\\Mappings\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "src\\PS.Produc.API\\DTOs\\Mappings\\MappingProfiles.cs",
+              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\DTOs\\Mappings\\MappingProfiles.cs",
+              "RelativeToolTip": "src\\PS.Produc.API\\DTOs\\Mappings\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T02:10:43.962Z",
+              "WhenOpened": "2024-03-28T04:46:48.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Models\\Product.cs",
+              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Models\\Product.cs",
+              "RelativeToolTip": "src\\PS.Produc.API\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:41:44.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Services\\ProductService.cs",
+              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "src\\PS.Produc.API\\Services\\ProductService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:50:38.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Services\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Services\\CategoryServices.cs",
+              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Services\\CategoryServices.cs",
+              "RelativeToolTip": "src\\PS.Produc.API\\Services\\CategoryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:39:33.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "src\\PS.Produc.API\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:46:38.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "src\\PS.Produc.API\\Repositories\\ICategoryRepository.cs",
               "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Repositories\\ICategoryRepository.cs",
               "RelativeToolTip": "src\\PS.Produc.API\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T02:07:33.65Z",
+              "WhenOpened": "2024-03-28T04:46:36.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "src\\PS.Produc.API\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:42:43.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Program.cs",
+              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Program.cs",
+              "RelativeToolTip": "src\\PS.Produc.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:46:16.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "src\\PS.Produc.API\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\git\\PlayShop\\src\\PS.Produc.API\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "src\\PS.Produc.API\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:35:56.687Z",
               "EditorCaption": ""
             }
           ]

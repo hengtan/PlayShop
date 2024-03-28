@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PS.Produc.API.Models;
 
-namespace PS.Produc.API.Controllers
+namespace PS.Produc.API.Context
 {
     public class AppDbContext : DbContext
     {
@@ -23,7 +23,6 @@ namespace PS.Produc.API.Controllers
                 .IsRequired();
 
             //Product
-
             modelBuilder.Entity<Category>()
                 .Property(c => c.Name)
                 .HasMaxLength(100)

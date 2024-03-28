@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PS.Produc.API.Controllers;
+using PS.Produc.API.Context;
 using PS.Produc.API.Models;
 
 namespace PS.Produc.API.Repositories
