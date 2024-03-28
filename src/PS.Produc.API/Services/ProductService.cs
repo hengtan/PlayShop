@@ -23,7 +23,6 @@ namespace PS.Produc.API.Services
             return _mapper.Map<ProductDTO>(productEntity);
         }
 
-
         public async Task AddProduct(ProductDTO productDTO)
         {            
             var productEntity = _mapper.Map<Product>(productDTO);
