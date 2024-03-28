@@ -103,3 +103,6 @@ C:\git\PlayShop\src\PS.Produc.API\obj\Debug\net8.0\refint\PS.Produc.API.dll
 C:\git\PlayShop\src\PS.Produc.API\obj\Debug\net8.0\PS.Produc.API.pdb
 C:\git\PlayShop\src\PS.Produc.API\obj\Debug\net8.0\PS.Produc.API.genruntimeconfig.cache
 C:\git\PlayShop\src\PS.Produc.API\obj\Debug\net8.0\ref\PS.Produc.API.dll
+C:\git\PlayShop\src\PS.Produc.API\bin\Debug\net8.0\libman.json
+C:\git\PlayShop\src\PS.Produc.API\bin\Debug\net8.0\AutoMapper.dll
+C:\git\PlayShop\src\PS.Produc.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

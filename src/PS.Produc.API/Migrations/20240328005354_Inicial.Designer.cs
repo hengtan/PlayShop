@@ -8,7 +8,7 @@ using PS.Produc.API.Controllers;
 
 #nullable disable
 
-namespace PS.Produc.API.Migrations
+namespace PS.Produc.API.DTOs
 {
     [DbContext(typeof(AppDbContext))]
     [Migration("20240328005354_Inicial")]

@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace PS.Produc.API.Migrations
+namespace PS.Produc.API.DTOs
 {
     /// <inheritdoc />
     public partial class SeedProducts : Migration
@@ -22,7 +22,7 @@ namespace PS.Produc.API.Migrations
 
             //insert data on products table with category 2
             migrationBuilder
-                .Sql("INSERT INTO Products (Name, Description, ImageURL, Price, CategoryId, Stock)" +
+                .Sql("INSERT INTO Products (Name, Description, ImageURL, Price,)" +
                     " VALUES ('T-Shirt', " +
                     "'T-Shirt Black', " +
                     "'https://www.iphonelife.com/sites/iphonelife.com/files/styles/panopoly_image_original/public/iphone-12-pro-max.jpg', " +

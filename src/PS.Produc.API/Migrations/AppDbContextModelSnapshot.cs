@@ -7,7 +7,7 @@ using PS.Produc.API.Controllers;
 
 #nullable disable
 
-namespace PS.Produc.API.Migrations
+namespace PS.Produc.API.DTOs
 {
     [DbContext(typeof(AppDbContext))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
