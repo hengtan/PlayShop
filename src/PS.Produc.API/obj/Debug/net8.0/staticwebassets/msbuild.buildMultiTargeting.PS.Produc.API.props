@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PS.Produc.API.props" />
+</Project>
